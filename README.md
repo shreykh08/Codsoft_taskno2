@@ -8,5 +8,5 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙Deplyed link of this website is https://64d36ac88e041c4d084a1976--glittering-horse-473296.netlify.app/
+💙Deplyed link of this website is https://codsoft-taskno2.vercel.app/
 ![preview img](/preview.png)
